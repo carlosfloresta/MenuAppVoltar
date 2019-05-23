@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuAppVoltar</string>
+    <string name="cliente">Cliente \n Francisco Boaventura \n CPF:345.456.345.12 \n \n Valor</string>
+    <string name="parcelas">Parcelas</string>
+</resources>
